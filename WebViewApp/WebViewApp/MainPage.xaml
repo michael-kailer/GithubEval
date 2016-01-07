@@ -28,7 +28,7 @@
                     x:Name="HomeAppBarButton"
                     x:Uid="HomeAppBarButton"
                     Click="HomeAppBarButton_Click"
-                    Label="home"/>
+                    Label="homes"/>
             </CommandBar.SecondaryCommands>
         </CommandBar>
     </Page.BottomAppBar>
